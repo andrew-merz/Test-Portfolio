@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Connect-4",
+    "live": " https://andrew-merz.github.io/Project-1-Connect-4/",
+    "git": "https://github.com/andrew-merz/Project-1-Connect-4",
+    "image": "https://user-images.githubusercontent.com/100104797/163078856-51fb91d6-503a-45ab-8eee-e9a1dba8c6d0.png"
+  },
+  {
+    "name": "Twitter-Clone",
+    "live": "https://twitter-clone-321.herokuapp.com/home",
+    "git": "https://github.com/andrew-merz/Twitter-Clone",
+    "image": "https://user-images.githubusercontent.com/100104797/166345302-1a0408ca-9bbc-40d2-9fe0-f686a95653ba.png"
+  }
+]
